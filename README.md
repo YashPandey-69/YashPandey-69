@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me:
 - 🔭 I love learning and building cool things with code  
-- 🌱 Currently exploring more on Machine Learning & Full-Stack Web Dev  
+- 🌱 Currently exploring more on Machine Learning   
 - ✉️ Reach me at: [itsmeyash002@gmail.com](mailto:itsmeyash002@gmail.com)  
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/yash-pandey-661332247/)
 
